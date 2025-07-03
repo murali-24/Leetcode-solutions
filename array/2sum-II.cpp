@@ -21,7 +21,7 @@ class Solution{
                     pointer2--;
                 }
                 else if (sum < target){
-                    pointer2++;
+                    pointer1++;
                 }
             }
 
