@@ -7,10 +7,10 @@ A curated list of essential array problems to build strong foundations for techn
 ## ✅ Two Pointer & Rearrangement
 - [x] [Two Sum](https://leetcode.com/problems/two-sum)
 - [x] [3Sum](https://leetcode.com/problems/3sum)
-- [ ] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
-- [ ] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)
-- [ ] [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)
+- [x] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
+- [x] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)
+- [x] [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)
 
 ---
 
