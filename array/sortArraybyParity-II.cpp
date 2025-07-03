@@ -4,7 +4,7 @@ using namespace std;
 
 class Solution{
     public:
-        vector<int> sortArrayByParity(vector<int>& nums){
+        vector<int> sortArrayByParityII(vector<int>& nums){
             int length, evenPointer, oddPointer,temp;
             length = size(nums);
             evenPointer = 0;
@@ -42,7 +42,7 @@ int main(){
     Solution sol;
     vector<int> nums={6,8,7,4,3,1,0,5};
 
-    vector<int> result = sol.sortArrayByParity(nums);
+    vector<int> result = sol.sortArrayByParityII(nums);
 
     for (int i: nums){
         cout<<i<<" ";
